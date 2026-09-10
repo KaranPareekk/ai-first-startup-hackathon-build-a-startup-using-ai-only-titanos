@@ -1,0 +1,6 @@
+{
+  "name": "TITAN_OS",
+  "description": "Interactive browser-based engineering learning workstation and simulation environment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
